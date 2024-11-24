@@ -1,0 +1,84 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+    border: 2px dotted #26ffe6;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ff4d6d;
+    color: #2b2839;
+    border-bottom: 10px solid #26ffe6;
+    border-top: 10px solid #5cf64a;
+    border-right: 10px solid #8cffda;
+    border-left: 10px solid #26ffe6;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 30px;
+      
+    
+    /*
+    Challenge:
+    Find a color palette you like on Coolors.co
+    and use it in your business card.
+     */
+}
+
+.name{
+    color: #8cffda;
+}
+
+.position{
+    color: #ffffe8
+}
+
+.location{
+    color: #5cf64a;
+}
+.border-blue {
+    border: 1px dotted blue;
+}
+
+.myinfo{
+    text-align: start;
+    color: #17ffee;
+    font-weight: bold;
+}
+
+.hobby{
+    color: #d099e3;
+    font-weight: bold;
+}
+
+.myself{
+    color: #ffff00;
+    font-weight: bold;
+}
+
+.friendship{
+    color: #dbfdd8;
+    font-weight: bold;
+}
+
+.congrats{
+    color: #a2d2ff;
+    font-weight: bold;
+}
+
+.background{
+    background-image: url(https://images.pexels.com/photos/1252890/pexels-photo-1252890.jpeg?cs=srgb&dl=pexels-krisof-1252890.jpg&fm=jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+
